@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alforsa.sa/</loc>
+    <lastmod>2025-11-13T10:52:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alforsa.sa/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alforsa.sa/ar/" />
+  </url>
+  <url>
+    <loc>https://alforsa.sa/en/</loc>
+    <lastmod>2025-11-13T10:52:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alforsa.sa/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alforsa.sa/ar/" />
+  </url>
+  <url>
+    <loc>https://alforsa.sa/ar/</loc>
+    <lastmod>2025-11-13T10:52:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alforsa.sa/en/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alforsa.sa/ar/" />
+  </url>
+  <url>
+    <loc>https://alforsa.sa/en/product-mini.html</loc>
+    <lastmod>2025-11-13T10:52:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alforsa.sa/en/product-mini.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alforsa.sa/ar/product-mini.html" />
+  </url>
+  <url>
+    <loc>https://alforsa.sa/ar/product-mini.html</loc>
+    <lastmod>2025-11-13T10:52:48+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alforsa.sa/en/product-mini.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alforsa.sa/ar/product-mini.html" />
+  </url>
+</urlset>

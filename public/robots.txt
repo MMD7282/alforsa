@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alforsa.sa/sitemap.xml
+Host: https://alforsa.sa
+ 
